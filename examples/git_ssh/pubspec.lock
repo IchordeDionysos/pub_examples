@@ -6,18 +6,18 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "49a015d612541e549cfbe657ef48145ca32a98f8"
+      resolved-ref: "10c778c799b2fc06036cbd0aa0e399ad4eb1ff5b"
       url: "git@github.com:dart-lang/path.git"
     source: git
-    version: "1.8.1-dev"
+    version: "1.7.0"
   pedantic:
     dependency: "direct dev"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "66f2f6c27581c7936482e83be80b27be2719901c"
+      resolved-ref: "2574dd14cabfe718a3bd4ef6651a9d6455e29fcb"
       url: "git@github.com:google/pedantic.git"
     source: git
-    version: "1.11.0"
+    version: "1.9.0"
 sdks:
   dart: ">=2.12.0-0 <3.0.0"
